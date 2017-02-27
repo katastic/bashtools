@@ -6,6 +6,10 @@ sudo echo "Thanks."
 
 # higher priorty numbers = HIGHER PRIORITY for swap.
 
+# Hey, should they both be THE SAME PRIORITY (default on my system boot), or is there an advantage to filling one before loading the next?
+# I also replicated the 2 streams each, as before.
+
+
 # also see http://gionn.net/2012/03/11/zram-on-debian-ubuntu-for-memory-overcommitment/
 # https://wiki.gentoo.org/wiki/Zram
 # https://www.kernel.org/doc/Documentation/blockdev/zram.txt
