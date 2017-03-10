@@ -1,0 +1,21 @@
+192.168.1.175,SATURN         ,Workstation Service
+192.168.1.175,SATURN         ,Messenger Service
+192.168.1.175,SATURN         ,File Server Service
+192.168.1.175,__MSBROWSE__,Master Browser
+192.168.1.175,WORKGROUP      ,Domain Name
+192.168.1.175,WORKGROUP      ,Master Browser
+192.168.1.175,WORKGROUP      ,Browser Service Elections
+192.168.1.175,MAC,00:00:00:00:00:00
+192.168.1.147,TITAN          ,File Server Service
+192.168.1.147,TITAN          ,Workstation Service
+192.168.1.147,WORKGROUP      ,Domain Name
+192.168.1.147,WORKGROUP      ,Browser Service Elections
+192.168.1.147,WORKGROUP      ,Master Browser
+192.168.1.147,__MSBROWSE__,Master Browser
+192.168.1.147,MAC,00:19:86:81:11:a7
+192.168.1.196,HP9CB6545A1226 ,Workstation Service
+192.168.1.196,MSHOME         ,Domain Name
+192.168.1.196,HP9CB6545A1226 ,File Server Service
+192.168.1.196,HPD1AA8C       ,Workstation Service
+192.168.1.196,HPD1AA8C       ,File Server Service
+192.168.1.196,MAC,00:00:00:00:00:00

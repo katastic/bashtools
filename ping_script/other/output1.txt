@@ -1,0 +1,29 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-02-06 04:42 EST
+Nmap scan report for router.asus.com (192.168.1.1)
+Host is up, received arp-response (0.0011s latency).
+MAC Address: 60:A4:4C:A1:4E:48 (Asustek Computer)
+Nmap scan report for mike-pc (192.168.1.32)
+Host is up, received arp-response (0.35s latency).
+MAC Address: 20:16:D8:DF:8C:96 (Liteon Technology)
+Nmap scan report for Chromecast (192.168.1.78)
+Host is up, received arp-response (0.18s latency).
+MAC Address: A4:77:33:85:E0:D2 (Unknown)
+Nmap scan report for titan (192.168.1.147)
+Host is up, received arp-response (0.16s latency).
+MAC Address: 00:19:86:81:11:A7 (Cheng Hongjian)
+Nmap scan report for mikes-iPod (192.168.1.164)
+Host is up, received arp-response (0.19s latency).
+MAC Address: 70:73:CB:62:BA:48 (Apple)
+Nmap scan report for 02AA01AB01130Q4X (192.168.1.174)
+Host is up, received arp-response (0.19s latency).
+MAC Address: 18:B4:30:0B:1A:F4 (Nest Labs)
+Nmap scan report for android-e41dda09d68dc6bc (192.168.1.184)
+Host is up, received arp-response (0.31s latency).
+MAC Address: 9C:D9:17:8C:BB:14 (Unknown)
+Nmap scan report for HPD1AA8C (192.168.1.196)
+Host is up, received arp-response (0.23s latency).
+MAC Address: 9C:B6:54:5A:12:26 (Unknown)
+Nmap scan report for saturn (192.168.1.175)
+Host is up, received localhost-response.
+Nmap done: 256 IP addresses (9 hosts up) scanned in 8.08 seconds
