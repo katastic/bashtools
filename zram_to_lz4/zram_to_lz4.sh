@@ -35,6 +35,13 @@ sudo echo "Thanks."
 
 # Lets do one full swap change at a time, so the other run can still run as swap while we do it.
 # Probably not a big deal, but if it has to flush a lot, maybe it's better.
+
+echo " * If you have a ton of stuff in swap, it may take a LONG time to flush!" 
+
+zramctl
+
+echo " * Starting. "
+
 sudo swapoff /dev/zram0
 sudo zramctl -s 468.2M -t 2 -a lz4 /dev/zram0
 sudo mkswap /dev/zram0
