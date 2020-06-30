@@ -67,11 +67,6 @@ dupes()
 	} | sort -h
 	}
 
-reload()
-	{
-	. ~/.bashrc
-	}
-
 
 # WHY DOESNT THIS WORK YET. UGHGHHHHHH
 rename_ext()
@@ -145,7 +140,7 @@ alias showrl='grep ".*" -r -I 2>&1 | pyg -l d | less -r' #recursive
 export PAGER=most
 
 alias where='which'  #because I mess this up all the time
-
+alias reload='. ~/.bashrc'
 
 #source ./fix_mouse_scrolling.sh
 
