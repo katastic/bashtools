@@ -111,6 +111,7 @@ rename_ext()
 
 alias what="history | cut -f 2 -d ' ' --complement | sort | uniq" #list unique bash history
 alias clone="guake -n `pwd`"
+alias ll="ls -alF"
 alias ls="ls --color=auto --group-directories-first"
 alias lsd="ls --color=auto -d */"
 alias lesser="less -r"
