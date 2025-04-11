@@ -142,7 +142,7 @@ export PAGER=most
 
 alias where='which'  #because I mess this up all the time
 alias reload='. ~/.bashrc'
-
+alias sizes="wajig large"
 #source ./fix_mouse_scrolling.sh
 
 #xinput set-prop 12 264 1.2
